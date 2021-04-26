@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+    background-image: url("../images/formbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    width: 300px;
+    box-shadow: 0 0 30px 0;
+    padding: 50px;
+    color: white;
+    background-color: rgb(204, 145, 34);
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+.main h1 {
+    color: rgb(121, 68, 30);
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+    border-radius: 10px;
+}
